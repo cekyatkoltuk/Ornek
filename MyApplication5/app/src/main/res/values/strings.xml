@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="l_stele">LİSTELE</string>
+    <string name="bt_ac">BT AC</string>
+    <string name="bt_kapat">BT KAPAT</string>
+    <string name="g_r_n_r_ol">GÖRÜNÜR OL</string>
+    <string name="button">Button</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="togglebtn">ToggleButton</string>
+    <string name="foto_cek">FOTO CEK</string>
+    <string name="video_cek">VIDEO CEK</string>
+</resources>
